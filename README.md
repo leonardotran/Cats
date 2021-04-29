@@ -1,6 +1,6 @@
 ### Project #2 for CS61A - Fall 2020
 
-In this project, I wrote a program that measures typing speed. 
+In this project, I wrote a program that measures typing speed, with multiplayers feature and leaderboard. 
 
 I also implemented typing autocorrect, which is a feature that attempts to correct the spelling of a word after a user types it. 
 
